@@ -1,0 +1,112 @@
+@media screen and (max-width: 480px){
+	/* Media Header */
+	.small-device {
+		display: none;
+	}
+
+	.content {
+		flex-direction: column;
+	}
+
+	.container_title {
+		text-align: center;
+	}
+
+	.star_logo {
+		position: relative;
+		top: 0;
+	}
+
+	/* Main */
+	#main {
+		align-items: center;
+	}
+
+	.benefits {
+		width: 95%;
+		height: 210px;
+		flex-direction: column;
+		align-items: center;
+		gap: 20px;
+		overflow-y: scroll;
+		scroll-snap-type: y mandatory;
+	}
+
+	.container_benefits {
+		flex-direction: row;
+		scroll-snap-align: center;
+	}
+
+	.description {
+		width: 100%;
+		margin: 5px 0;
+	}
+
+	.description_paragraph {
+		width: 95%;
+		margin: 10px 0;
+	}
+
+	.description_paragraph h4 {
+		text-align: center;
+	}
+
+	.container_icons {
+		flex-wrap: wrap;
+	}
+
+	#plan {
+		text-align: center;
+		
+	}
+
+	.container_plan {
+		display: flex;
+		gap: 30px;
+		width: 70%;
+		overflow-x: scroll;
+		scroll-snap-type: x mandatory;
+	}
+
+	.box_plan {
+		min-width: 280px;
+		scroll-snap-align: center;
+	}
+	
+}
+
+@media screen and (max-width: 380px){
+	/* Main */
+	
+
+	/* Formulario */
+  .title {
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 10px;
+  }
+  
+  .paragraph {
+    font-size: 0.9rem;
+    font-weight: 300;
+    color: #b3b1b1;
+    text-align: center;
+    text-align: justify;
+    padding: 0 10px;
+    margin: 0;
+  }
+  
+  .form__list {
+    padding: 5px;
+    font-size: 0.9rem;
+  }
+  
+  .float__field input {
+    height: 30px;
+  }
+  
+  .form__list textarea {
+    height: 70px;
+    resize: none;
+  }
+}

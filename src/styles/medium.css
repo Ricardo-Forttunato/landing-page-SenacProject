@@ -1,0 +1,65 @@
+
+
+@media screen and (max-width: 769px){
+	/* Header */
+	.description_img {
+		display: none;
+	}
+
+	.medium-device {
+		display: none;
+	}
+
+	.content {
+		width: 100%;
+	}
+
+	/* Main */
+	.benefits {
+		width: 100%;
+		padding: 5px;
+	}
+
+	.container_benefits {
+		width: 25%;
+	}
+
+	.container_benefits img {
+		width: 150px;
+		height: 150px;
+	}
+
+	.container_benefits p {
+		font-size: 0.5;
+	}
+
+	.description_paragraph {
+		width: 100%;
+		padding: 15px;
+	}
+
+	.container_icons {
+		width: 95%;
+	}
+
+	.container_plan {
+		width: 100%;
+		gap: 10px;
+		padding: 5px;
+	}
+	
+	/* Formulario */
+  .contact {
+    left: 0;
+    top: 120px  ;
+  }
+  
+  .title__content {
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  .form__list {
+    width: 100%;
+  }
+}
