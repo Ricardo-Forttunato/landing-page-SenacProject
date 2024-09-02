@@ -1,7 +1,7 @@
 # Landing Page Profissionais autonomos
 ### Produção de texto indivual 4º Semestre Senac EAD
 
-este trabalho foi desenvolvido para a disciplina de Web Standart do 4º semestre do curso de tecnologia em análise e desenvolvimento de sistemas do Senac EAD. O objetivo é criar uma landing page para profissionais autônomos.
+este trabalho foi desenvolvido para a disciplina de Web Standard do 4º semestre do curso de tecnologia em análise e desenvolvimento de sistemas do Senac EAD. O objetivo é criar uma landing page para profissionais autônomos.
 
 ## Estrutura do projeto
 O projeto foi desenvolvido em HTML, CSS. A estrutura do projeto é composta por 2 pastas
@@ -13,4 +13,4 @@ O projeto foi desenvolvido em HTML, CSS. A estrutura do projeto é composta por 
 obs: As imagens utilizadas no projeto foram criadas pr inteligencia artificial e não representam pessoas reais.
 
 o site foi hopspedado pelo github pages e pode ser acessado pelo link: 
-[projeto PTI web Standart Senac](https://ricardo-forttunato.github.io/senacProject/)
+[projeto PTI web Standards Senac](https://ricardo-forttunato.github.io/senacProject/)
